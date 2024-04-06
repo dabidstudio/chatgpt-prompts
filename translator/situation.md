@@ -1,7 +1,7 @@
 
 <details>
-<summary>## 상황 1 : 문법이 맞는지 제대로 확인</summary>
-원문 : 그녀는 오랜 시간 음악을 공부했습니다.  
+<summary><h1>상황 1 : 문법이 맞는지 제대로 확인</h1></summary>
+원문 : 그녀는 오랜 시간 음악을 공부했습니다.<br/>
 번역한 문장 : She long time studied music.  
 </details>
 
