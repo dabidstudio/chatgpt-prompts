@@ -1,3 +1,5 @@
+# Chat GPT로 번역 잘하기 - 상황별 최적 프롬프트 소개
+
 
 <details>
 <summary><h2>상황 1 : 문법이 맞는지 제대로 확인</h2></summary>
