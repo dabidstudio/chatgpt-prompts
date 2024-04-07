@@ -48,6 +48,7 @@
 번역 2 : The device facilitates easy access to the internet.  
 </details>
 
+<details>
 <summary>개선된 프롬프트</summary>
 번역 1) The device enables easy access to the internet
 
