@@ -6,9 +6,8 @@
 원문 : 그녀는 오랜 시간 음악을 공부했습니다.<br/>
 번역한 문장 : She long time studied music.  
 </details>
-
 <details>
-<summary><h3>개선된 프롬프트</h3></summary>
+<summary><p>개선된 프롬프트</p></summary>
 - 나는 번역이 문법적으로 정확할 뿐만 아니라, 영어권 청자들에게도 자연스럽게 잘 와닿게 하고 싶음.<br/>
 - 번역문의 문법을 검사하고 문법이 틀렸다면 왜 틀렸는지, 다음엔 안틀릴 수 있도록 이유를 설명해줘. 최대한 쉽게 설명해줘<br/>
 - 그리고 더 자연스럽거나 매력적으로 들릴 수 있는 다른 표현을 3개 제안해줘<br/>
@@ -25,6 +24,19 @@
 원문 : 행정안전부은 2024년 사용자 중심의 공공 웹·앱 사용자 인터페이스(UI)와 사용자 경험(UX) 혁신을 위해 12억원 규모의 예산을 투입하여 본격 개선한다.  <br/>
 번역한 문장 : The Ministry of Public Administration and Security will invest 1.2 billion won in budget to innovate user-based public web and app user interface (UI) and user experience (UX) in 2024 to improve it.
 
+</details>
+<details>
+<summary><p>개선된 프롬프트</p></summary>
+원문 : 행정안전부은 2024년 사용자 중심의 공공 웹·앱 사용자 인터페이스(UI)와 사용자 경험(UX) 혁신을 위해 12억원 규모의 예산을 투입하여 본격 개선한다.
+
+번역 : The Ministry of Public Administration and Security will invest 1.2 billion won in budget to innovate user-centered public web and app user interface (UI) and user experience (UX) in 2024 to improve it in earnest.
+
+- 내가 번역한 영어 문장 어때? 이상하면 이유를 알려줘
+- 특히 사용자 경험 혁신, 사용자 중심, 공공 웹앱 같은 전문 용어들의 번역이 제대로 된게 맞는지 꼭 확인해주고 이유를 알려줘
+- 번역을 개선할 수 있으면, 영어적으로 자연스럽게 표현해줘
+- 이 글은 정부의 보도자료이기 떄문에 문장이 간결하고 정확하고 분명해야 해
+- 개선된 번역문은 3가지 옵션을 주고, 왜 그렇게 번역했는지 이유도 설명해줘
+- 그리고 그 중에서 가장 좋은 옵션을 선정해줘
 </details>
 
 
