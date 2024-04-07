@@ -57,7 +57,7 @@
 
 원문 : 행정안전부은 2024년 사용자 중심의 공공 웹·앱 사용자 인터페이스(UI)와 사용자 경험(UX) 혁신을 위해 12억원 규모의 예산을 투입하여 본격 개선한다.
 
-번역 : The Ministry of Public Administration and Security will invest 1.2 billion won in budget to innovate user-centered public web and app user interface (UI) and user experience (UX) in 2024 to improve it in earnest.
+번역 : The Ministry of Public Administration and Security will invest 1.2 billion won in budget to innovate user-based public web and app user interface (UI) and user experience (UX) in 2024 to improve it.
 
 - 내가 번역한 영어 문장 어때? 이상하면 이유를 알려줘
 - 특히 사용자 경험 혁신, 사용자 중심, 공공 웹앱 같은 전문 용어들의 번역이 제대로 된게 맞는지 꼭 확인해주고 이유를 알려줘
