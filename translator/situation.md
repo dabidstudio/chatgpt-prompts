@@ -6,9 +6,10 @@
 원문 : 그녀는 오랜 시간 음악을 공부했습니다.<br/>
 번역한 문장 : She long time studied music.  
 </details>
+
 <details>
 <summary>개선된 프롬프트</summary>
-나는 번역이 문법적으로 정확할 뿐만 아니라, 영어권 청자들에게도 자연스럽게 잘 와닿게 하고 싶음.
+- 나는 번역이 문법적으로 정확할 뿐만 아니라, 영어권 청자들에게도 자연스럽게 잘 와닿게 하고 싶음.
 - 번역문의 문법을 검사하고 문법이 틀렸다면 왜 틀렸는지, 다음엔 안틀릴 수 있도록 이유를 설명해줘. 최대한 쉽게 설명해줘
 - 그리고 더 자연스럽거나 매력적으로 들릴 수 있는 다른 표현을 3개 제안해줘
 - 번역문은아래와 같아
@@ -25,6 +26,7 @@
 번역한 문장 : The Ministry of Public Administration and Security will invest 1.2 billion won in budget to innovate user-based public web and app user interface (UI) and user experience (UX) in 2024 to improve it.
 
 </details>
+
 <details>
 <summary>개선된 프롬프트</summary>
 원문 : 행정안전부은 2024년 사용자 중심의 공공 웹·앱 사용자 인터페이스(UI)와 사용자 경험(UX) 혁신을 위해 12억원 규모의 예산을 투입하여 본격 개선한다.
